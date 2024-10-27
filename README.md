@@ -1,13 +1,10 @@
 # Prodigy-InfoTech
-This repository contains the official internship offer letter for Vyankatesh Dattatray Shinde from Prodigy InfoTech for the position of Cybersecurity Intern. The internship, taking place from October 15, 2024, to November 15, 2024, provides an educational experience designed to introduce and immerse interns in the field of cybersecurity.
+My internship at The Prodigy Infotech Online recently concluded, spanning a duration of one month from 15th Oct 2024 to 15th Nov 2024. Throughout this period, I had the opportunity to delve into various aspects of Cyber Security, gaining valuable insights and hands-on experience in the field. The online nature of the internship provided flexibility and convenience, enabling me to effectively manage and complete the assigned tasks. This experience has been instrumental in enhancing my knowledge and skills in Cyber Security, and I am grateful for the opportunity to learn and grow in such a dynamic and essential domain.
 
-About the Internship
-Position: Cybersecurity Intern
-Duration: 1 month (October 15, 2024 - November 15, 2024)
-Objective: To provide hands-on experience in cybersecurity practices.
-Please Note: This internship is strictly for educational purposes and is not an offer of employment. Successful completion does not guarantee future employment.
+INTERSHIP DURATION: 1 MONTHS [15 Oct 2024 - 15 Nov 2024]
 
-For more details, contact Prodigy InfoTech at:
+MODE: ONLINE
 
-Website: prodigyinfotech.dev
-Email: contact@prodigyinfotech.dev
+OFFER LETTER:-
+
+[Prodigy OnfoTech Internship Offer Letter.pdf](https://github.com/user-attachments/files/17532668/Prodigy.OnfoTech.Internship.Offer.Letter.pdf)
