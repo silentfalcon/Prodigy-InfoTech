@@ -4,7 +4,3 @@ My internship at The Prodigy Infotech Online recently concluded, spanning a dura
 INTERSHIP DURATION: 1 MONTHS [15 Oct 2024 - 15 Nov 2024]
 
 MODE: ONLINE
-
-OFFER LETTER:-
-
-[Prodigy OnfoTech Internship Offer Letter.pdf](https://github.com/user-attachments/files/17532668/Prodigy.OnfoTech.Internship.Offer.Letter.pdf)
